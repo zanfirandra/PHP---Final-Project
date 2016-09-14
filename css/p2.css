@@ -1,0 +1,14 @@
+#banner{
+    background-image: url('../imagini/Tulips.jpg');
+    height: 150px;
+}
+
+#meniu ul{
+    list-style-type: none;
+}
+
+#meniu ul li {
+    display: inline;
+    padding-right: 10px;
+    
+}
